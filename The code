@@ -1,0 +1,170 @@
+<html>
+   <head>
+<title>ASS 1</title>
+   </head> 
+   <body>
+<h2><center>My Website </center></h2>
+
+
+
+   <center>
+
+
+    <li style= "display:inline-block;">
+        <p> <a href="">Home</a></p> 
+           </li> 
+           |
+
+           <li style= "display:inline-block;">  
+        <p><a href="">About Us</a></p>
+           </li>
+           |
+
+           <li style= "display:inline-block;">  
+            <p><a href="">Gallery</a></p>
+               </li>
+               |
+            <li style= "display:inline-block;">  
+            <p><a href=""> FAQ's</a></p>
+                </li>
+                |
+                <li style= "display:inline-block;">  
+                    <p><a href="">Contact Us</a></p>
+                       </li>
+        
+
+   </center>
+   <hr />
+   <h3> My Favourite Topics</h3>
+   <ul>
+    <h5><li>Java Programming</h5></li> 
+    <h5><li>Web Programming</h5></li> 
+    <h5><li>Network Security</h5></li> 
+    <h5><li>Mobile App Development</h5></li> 
+    <h5><li>Software Engineering</h5></li> 
+
+   </ul>
+
+   <table border="1" width="90%">
+    <thead></thead>
+        <tr>
+            <th rowspan="2"> Courses</th >
+            
+            <th colspan="6"> My Weekly Schedule</th>
+             
+        </tr>
+    <tr>
+        <th> Sunday</th>
+        <th> Monday</th>
+        <th> Tuesday</th>
+        <th>Wednesday</th>
+        <th> Thursday</th>
+
+
+
+    </tr>
+
+    </thead>
+
+    <tbody>
+       
+        
+        <tr>
+            
+            <th> Computer Science 1 </th>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <th> Computer Science 2 </th>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <th> Web Programming </th>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <th> Network Security </th>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <th> Introduction To IT </th>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+
+    </tbody>
+
+</table>
+
+<h3> Students Can Enter your concerns below</h3>
+
+<table border="1" width="50%">
+    <thead>
+        <tr>
+            <th> Student ID</th >
+            <th > Student Name</th>
+            <th > Student Email</th> 
+        </tr>
+
+
+    </thead>
+    <tbody>
+        <tr>
+          <td> <input type="text" /> </td>
+          <td> <input type="text" /> </td>
+          <td> <input type="text" /> </td>
+          
+
+        </tr>
+       
+    </tbody>
+</table>
+
+
+
+   <p><strong> Enter concerns: </strong><br>
+
+   <textarea cols="25" rows="5"></textarea>
+   </p>
+
+   <p>
+       <input type="submit" value =" Submit" />
+   </p>
+<hr/>
+
+<center>
+
+    <p>  &copy; copyright,     Danah Almutairi    ,2020</p> 
+    
+</center>
+
+
+
+   </body>
+</html>
+
+
+
+
+
+
+
